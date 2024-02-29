@@ -12,10 +12,15 @@
 .square{
   width: 70px;
   height: 70px;
-  background-color: lightseagreen;
-  color: black;
+  background-color: rgb(119, 194, 15);
+  color: white;
   border: 1px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
+}
+
+.clicked{
+  background-color: lightblue;
 }

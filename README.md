@@ -26,4 +26,4 @@ Le validazioni e i controlli possiamo farli anche in un secondo momento.
   - creo elemento HTML
   - associo la classe square
   - associo il valore (il numero)
-  - aggiungo il click che mostra il valore e fa toggle della classe clicked
+  - aggiungo il click che mostra il valore
