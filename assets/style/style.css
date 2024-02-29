@@ -1,0 +1,21 @@
+.main-wrapper{
+  background-color: aquamarine;
+  height: 100vh;
+}
+
+.grid-container{
+  aspect-ratio: 1;
+  width: 700px;
+  background-color: brown;
+}
+
+.square{
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
