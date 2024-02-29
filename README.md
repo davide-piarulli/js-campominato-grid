@@ -19,4 +19,11 @@ Proviamo sempre prima con dei console.log() per capire se stiamo ricevendo i dat
 Le validazioni e i controlli possiamo farli anche in un secondo momento.
 
 ## Step da seguire
-1. 
+1. salvo il mio container in una veriabile
+2. resetto
+3. creo il ciclo di 100 ripetizioni
+4. ad ogni ciclo devo creare un quadrato e lo assegno alla griglia
+  - creo elemento HTML
+  - associo la classe square
+  - associo il valore (il numero)
+  - aggiungo il click che mostra il valore e fa toggle della classe clicked
